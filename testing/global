@@ -1,0 +1,8 @@
+{
+  "secret": "this works!",
+  "v": {
+    "0.1": {
+      "status": true
+    }
+  }
+}
